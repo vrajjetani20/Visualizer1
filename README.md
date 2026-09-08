@@ -134,49 +134,36 @@ sales_data.csv
 
 ### 1️⃣ Load Dataset
 
-![Load Dataset](screenshots/screen1.png)
+<img width="877" height="400" alt="1" src="https://github.com/user-attachments/assets/bed8207a-c294-4ce3-babf-774eded5fcaa" />
+
 
 ### 2️⃣ Explore Data
 
-![Explore Data](screenshots/screen2.png)
+<img width="736" height="935" alt="2" src="https://github.com/user-attachments/assets/7e18e2a5-c39d-462d-8768-cf4fa04eb772" />
+
 
 ### 3️⃣ DataFrame Mathematical & Search Operations
 
-![DataFrame Operations](screenshots/screen3.png)
+<img width="880" height="912" alt="3" src="https://github.com/user-attachments/assets/2358fe28-bb8a-4e51-9883-b1f23faa8f80" />
+
 
 ### 4️⃣ Split Data
 
-![Split Data](screenshots/screen4.png)
+<img width="1431" height="837" alt="4" src="https://github.com/user-attachments/assets/ad6cc88b-9df4-45e8-8fa1-5509f22a45ee" />
+
 
 ### 5️⃣ Descriptive Statistics
 
-![Descriptive Statistics](screenshots/screen5.png)
+<img width="1082" height="927" alt="5" src="https://github.com/user-attachments/assets/afe8fdcf-94a5-434d-8a3c-f5a1d114a2ba" />
+
 
 ### 6️⃣ Data Visualization
 
-![Data Visualization](screenshots/screen6.png)
+<img width="1795" height="582" alt="6" src="https://github.com/user-attachments/assets/6013aa40-08a4-4d41-9693-68863e8f6e6a" />
+
 
 ---
 
-## 📁 Suggested Project Structure
-
-```text
-Sales-Data-Analysis/
-│
-├── Visualizer.py
-├── sales_data.csv
-├── README.md
-│
-└── screenshots/
-    ├── screen1.png
-    ├── screen2.png
-    ├── screen3.png
-    ├── screen4.png
-    ├── screen5.png
-    └── screen6.png
-```
-
----
 
 ## 💡 Example Analysis
 
